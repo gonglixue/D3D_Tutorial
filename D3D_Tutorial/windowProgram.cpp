@@ -1,3 +1,4 @@
+/*
 #include <Windows.h>
 #include <windowsx.h>
 
@@ -62,7 +63,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	return msg.wParam;
 }
 
-LRESULT CALLBACK WindowProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
+LRESULT CALLBACK _3WindowProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	switch (message)
 	{
@@ -78,4 +79,4 @@ LRESULT CALLBACK WindowProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lPara
 
 	// handle any messages the switch statement didn't
 	return DefWindowProc(hWnd, message, wParam, lParam);
-}
+}*/

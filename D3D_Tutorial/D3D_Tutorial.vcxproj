@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="5_Triangle.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="windowProgram.cpp" />
   </ItemGroup>

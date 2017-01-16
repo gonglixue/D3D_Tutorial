@@ -1,3 +1,4 @@
+/*
 #include <Windows.h>
 
 int WINAPI _WinMain(HINSTANCE hInstance,
@@ -12,3 +13,4 @@ int WINAPI _WinMain(HINSTANCE hInstance,
 
 	return 0;
 }
+*/
